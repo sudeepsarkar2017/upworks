@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "jasmine": "^3.0.0",
-    "protractor": "^3.3.0",
+    "protractor": "^7.0.0",
     "selenium-webdriver": "^4.0.0-alpha.1"
   },
   "devDependencies": {},
